@@ -1,7 +1,7 @@
-## Welcome to CANES NexGen!
+## Welcome to the Project's PUBLIC SPACE!
 
-# CANES NextGen Overview (You are in the Public View Space)
+# (You are in the Public View Space)
 
-To view more information about CANES NextGen, change your drop down on the right to **View as: MEMBER**
+To view more information about the project, change your drop down on the right to **View as: MEMBER**
 
-  **Note:** This is Public view for NextGen Landing Page. **DO NOT use or list specifics.**
+  **Note:** This is Public view for the Project's Landing Page. **DO NOT use or list specifics.**
